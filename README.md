@@ -1,2 +1,2 @@
 # ES-PINN
-Resources and code will be updated upon acceptance of the article.
+Resources and code will be updated upon acceptance of the paper.
